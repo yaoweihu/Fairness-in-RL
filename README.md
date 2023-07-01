@@ -7,7 +7,7 @@ Decision-Making Through Reinforcement Learning".
 
 ## Quickstart
 
-1. Install the dependency packages.
+1. Install the dependent packages.
 ```
 pip install requirements
 ```
