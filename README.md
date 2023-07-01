@@ -18,18 +18,26 @@ cd lending / infectious
 python main.py
 ```
 
-## Results
+## Case Study
 
-1. Case Study: Bank Loans
+1. Bank Loans
+
 The codes for this case study is in the folder "lending". 
 To run different algorithms, change variable MODEL in config.py.
 
 ![lending](./assets/lending.png)
 
 
+2. Attention Allocation
+
+The codes for this case study is in the folder "attention". 
+To run different algorithms, change variable MODEL in config.py.
+
+![attention](./assets/attention.png)
 
 
-2. Case Study: Epidemic Control
+3. Epidemic Control
+
 The codes for this case study is in the folder "infectious". 
 To run different algorithms, change variable MODEL in config.py.
 
