@@ -30,7 +30,7 @@ To run different algorithms, change variable MODEL in config.py.
 
 2. Attention Allocation
 
-The codes for this case study is in the folder "attention". 
+The codes for this case study is in the folder "allocation". 
 To run different algorithms, change variable MODEL in config.py.
 
 ![attention](./assets/attention.png)
