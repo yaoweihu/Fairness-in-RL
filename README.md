@@ -9,7 +9,7 @@ Decision-Making Through Reinforcement Learning".
 
 1. Install the dependency packages.
 ```
-pip install requirements
+pip install -r requirements.txt
 ```
 
 2. Run the case studies.
